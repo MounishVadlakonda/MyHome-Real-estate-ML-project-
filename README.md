@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MounishVadlakonda
-- 👀 I’m interested in Python, mysql, c++, PowerBI
+- 👀 I’m interested in Python, mysql, PowerBI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... linkedin ID : Mounish Vadlakonda
