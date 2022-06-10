@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MounishVadlakonda
-- 👀 I’m interested in Python, mysql, PowerBI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... linkedin ID : Mounish Vadlakonda
-
-<!---
-MounishVadlakonda/MounishVadlakonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a Machine Learning project written in python.
+This is Price detection project of houses which can be used by real estate companies to predict the prices based on previous data and achieve profits. 
+Pandas,numpy,sklearn are used.
